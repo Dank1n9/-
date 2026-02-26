@@ -15,4 +15,4 @@
 致命缺点：只可以在桌面位于C:的时候使用！！！
 
 
-我的小站：[点我进入](https://dash.shiorko.dpdns.org)
+我的小站：[点我进入](https://shiorko.dpdns.org)
